@@ -1,19 +1,19 @@
 
 <h3>Hello I am </h3>
-<h1>Kamal Kishor Rajput</h1>
+<h1>Vansh Pratap Singh</h1>
 <p>This is repo of my portfolio.</p>
-<a href="https://portfolio.kamalkishor.in">See My Portfolio<a/>
+<a href="https://portfolio-swart-ten-88.vercel.app/">See My Portfolio<a/>
   <br/>
   
   <p>I am full Stack Web developer<p/>
-  <p>Learning MERN Stack at Masai School Bengaluru, Karnataka<p/>
+  <p>Learning WEB DEVELOPMENT BOOTCAMP [MERN Stack]<p/>
   
   <h2>About Portfolio</h2>
-  <p>I made the portfolio using React and Host at Amazon Web Services.</p>
-  <p>Here You can check my previous work and Projects.</p> <a href="https://main.d3ghyjc9c1wf3b.amplifyapp.com/#projects">Projects</a>
+  <p>I made the portfolio using React and Host at Vercel.</p>
+  <p>Here You can check my previous work and Projects.</p> <a href="https://portfolio-swart-ten-88.vercel.app/#projects">Projects</a>
   
-  # Getting Started with Create React App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <!-- # Getting Started with Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
 ## Available Scripts
 
@@ -40,7 +40,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://vercel.com/docs/security/deployment-protection#deployment-protection-on-vercel) for more information.
 
 ### `npm run eject`
 
